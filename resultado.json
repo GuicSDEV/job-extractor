@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Skyworks Solutions",
+    "role": "AI/ML Intern",
+    "remote": false,
+    "location": "Any Skyworks office location, preferably California",
+    "stack": [
+      "Python",
+      "PyTorch",
+      "VS Code",
+      "LangChain",
+      "LangGraph",
+      "Genie",
+      "Databricks",
+      "Power BI"
+    ],
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "period": null
+  },
+  {
+    "company": null,
+    "role": "Software Intern",
+    "remote": false,
+    "location": "Mountain View, CA",
+    "stack": [
+      "Python",
+      "C++"
+    ],
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "period": null
+  },
+  {
+    "company": "MITRE",
+    "role": "AI Solutions Architect Intern",
+    "remote": false,
+    "location": null,
+    "stack": [],
+    "salary_min": 46500,
+    "salary_max": 69500,
+    "currency": "USD",
+    "period": "year"
+  }
+]

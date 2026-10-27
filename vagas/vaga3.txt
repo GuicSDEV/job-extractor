@@ -1,0 +1,35 @@
+We’re hiring software interns with significant experience with AI research (across models, algorithms, and training methodology) to help push the frontier of our AI-native tools and agent-driven workflows for chip design.
+
+This is an in-person role at our Mountain View office, and can be either part-time or full-time effective immediately.
+
+This may transition into a full-time role.
+
+Who You Are
+
+You’re excited about directly contributing to the growth and velocity of a fast-growing startup that is transforming the way chips are built by the semiconductor industry.
+
+You are resourceful, a self-starter, and care intensely about the quality of your work.
+
+You want to work at a scrappy startup that sets and meets aggressive goals.
+
+You enjoy working in-person with others, and are able to come to our Mountain View office multiple times a week.
+
+If this sounds like you, please apply to join the team!
+
+What You’ll Do
+
+Architect, implement, and benchmark methodology across models, algorithms, and training frontiers for AI-native chip design
+Collaborate directly with the founders on key research direction and design decisions
+
+Minimum Requirements
+
+Available for 15-40 hours/week in-person in Mountain View, CA
+Good at writing/shipping high-quality code (Python/C++) quickly
+Experience with applied AI and AI research
+Adaptive, data-driven, and works from first principles
+
+Benefits
+
+Generous salary
+Commuting stipend
+Team meals

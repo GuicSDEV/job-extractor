@@ -1,0 +1,63 @@
+At MITRE, your passion fuels work that impacts our nation and improves lives. This is where your skills strengthen national security, cybersecurity, health, transportation, and citizen services. We’re a nonprofit engineering, applied research, and advanced technology organization working in the public interest. With objectivity and integrity at our core, we lead federally funded research and development centers for U.S. government agencies – collaborating with industry and academia to deliver integrated, high-impact solutions that advance our nation’s health, security, and prosperity. Our people tackle the toughest technical challenges, supported by competitive benefits, meaningful career development, and a culture of innovation, collaboration, and technical excellence. Choose MITRE for a career with purpose — and help shape the future.
+
+Mission Computing, L080, is a new division being established to accelerate how MITRE turns technical possibility into mission capability. We're bringing together supercomputing, AI services, secure lab and cloud infrastructure, and modern engineering tooling, all organized as a front-line function that shapes how teams across MITRE build, experiment, and deliver. The AI and Mission Enablement department is the applied AI and services adoption arm of Mission Computing. Its role is to make MITRE's AI and mission platform investments practical for mission work: giving staff usable paths to approved tools, workflows, reusable patterns, data integrations, development environments, hands-on experimentation, and high-touch technical support. The department helps teams move beyond isolated experiments into secure, repeatable ways of using platforms and computing environments in all aspects of their work.
+
+As Mission Computing stands up, AI and Mission Enablement will sit between infrastructure and practice. The department will work with platform teams, mission users, laboratories, Enterprise Technology, Information Security Services, and AI communities across MITRE to standardize how capabilities are discovered, integrated, taught, supported, and scaled across approved data and security environments. Its work is to make AI and platforms easier to learn, easier to trust, easier to connect to MITRE workflows, and easier to apply responsibly to mission problems. AI Enablement is the group that turns platforms, APIs, agents, data workflows, secure compute, and developer experiences into a working foundation for a mission-centric MITRE.
+
+Roles & Responsibilities:
+
+MITRE's AI and Mission Enablement Department within the Mission Computing Division is seeking an AI Solutions Architect Intern who is currently pursuing a Bachelor's degree. Working with a technical mentor and more senior staff, the intern will gain hands-on experience helping mission teams use approved AI tools, APIs, data workflows, and development environments. The intern will contribute to a scoped project through guided experimentation, implementation, testing, and documentation while learning how usable, secure, and responsible AI solutions are developed. Roles and responsibilities include:
+
+Participate in discussions with technical and mission users alongside a mentor; ask questions, confirm understanding, and help document workflow needs, user questions, and project objectives. 
+Build or adapt small prototype components, scripts, prompt examples, or API integrations using approved AI tools, sample code, and development environments under the direction of more senior staff. 
+Learn and follow established security, data-handling, and responsible-AI practices; use approved tools and data, recognize the limitations of AI outputs, and seek guidance before taking unfamiliar actions. 
+Run defined tests and experiments, compare outputs against mentor-provided criteria, and document results and limitations; use existing guidance to troubleshoot basic issues and ask for help when needed. 
+Contribute to starter kits, reusable examples, setup instructions, and project documentation so teammates can understand and reproduce the intern's work; incorporate feedback from technical reviews. 
+Assist with demonstrations, tutorials, hands-on learning activities, and routine user-support tasks alongside experienced staff; capture questions and feedback for the team to review. 
+Work with a mentor to set learning goals and complete a defined project; communicate progress, apply feedback, collaborate with teammates, and present the project's results and lessons learned at the end of the internship. 
+
+Basic Qualifications:
+
+Currently enrolled in and pursuing a Bachelor's degree in computer science, artificial intelligence, machine learning, data science, software engineering, systems engineering, or a related technical field. 
+Must continue to be enrolled the semester following the internship. 
+Must be eligible to obtain a Secret U.S. Government issued security clearance if required for the assigned work. U.S. citizenship is required to be considered for a security clearance. 
+Basic programming knowledge demonstrated through introductory coursework, academic or personal projects, or other learning experiences; ability to read, write, and test a small program or script in Python or another programming language. 
+Interest in applied AI and in learning how AI tools, APIs, software, and data can support practical user needs. Prior experience with enterprise AI platforms, cloud infrastructure, or production AI systems is not required. 
+Ability to follow written instructions, apply basic analytical skills to a defined task, document what was tried and observed, and seek guidance when a problem or requirement is unclear. 
+Ability to work collaboratively, ask questions, communicate progress clearly, receive and apply feedback, and take responsibility for assigned learning and project tasks with mentor support. 
+Ability to work the agreed internship schedule with a minimum on-site presence of 3 days per-week. 
+
+Preferred Qualifications: 
+
+Completed or ongoing coursework in artificial intelligence, machine learning, data science, algorithms, databases, software engineering, or human-centered computing. 
+Exposure to AI assistants, LLM tools or APIs, prompt development, or AI-assisted software development through coursework, personal exploration, or student projects. 
+A class, personal, or team project involving a small application, API integration, chatbot, data analysis, or AI/ML prototype; interest in explaining how it works 
+
+This requisition requires the candidate to have a minimum of the following clearance(s):
+
+None
+
+This requisition requires the hired candidate to have or obtain, within one year from the date of hire, the following clearance(s):
+
+Secret
+
+Salary compensation range and midpoint:
+
+$46,500 - $58,000 - $69,500 Annual
+
+Work Location Type:
+
+Hybrid
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+
+Commitment to Non-Discrimination
+
+All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local or international law.
+
+MITRE intends to maintain a website that is fully accessible to all individuals. If you are unable to search or apply for jobs and would like to request a reasonable accommodation for any part of MITRE’s employment process, please email recruitinghelp@mitre.org for general support and collegerecruiting@mitre.org for intern positions. This service is for individuals requiring reasonable accommodation requests. Please note that vendor solicitations will not receive a reply.
+
+Benefits information may be found here.
+
+Copyright © 1997-2026, The MITRE Corporation. All rights reserved. MITRE is a registered trademark of The MITRE Corporation. Material on this site may be copied and distributed with permission only.
+
